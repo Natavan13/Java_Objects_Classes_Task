@@ -17,6 +17,9 @@ public class Student {
         this.surname = surname;
         this.gpa = gpa;
     };
+    public void hey(){
+        System.out.println("ghvuevcyhegbhj");
+    }
 
     public int getId() {
         return id;
